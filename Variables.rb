@@ -1,0 +1,3 @@
+nombre = "Héctor"
+
+ puts nombre
