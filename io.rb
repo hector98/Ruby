@@ -1,5 +1,6 @@
 # IO = Input / output
 
+puts "Hola"
 print "Cuál es tu nombre? "
 
 nombre = gets
